@@ -25,7 +25,7 @@ public class ConsoleExercises {
 
         System.out.printf("Your three words are \n%s\n%s\n%s.\n", word1, word2, word3);
 
-
+        sc.nextLine();
         System.out.println("Please enter a sentence: ");
         String sentence = sc.nextLine();
         System.out.printf("Is this correct?: %s\n",  sentence);
