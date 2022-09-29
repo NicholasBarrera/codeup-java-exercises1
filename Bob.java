@@ -30,12 +30,8 @@ public class Bob {
                         System.out.println("Whatever");
                     }
 
-                    
+
                 } while (userInput);
-
-
-
-
 
 
     }
